@@ -1,15 +1,14 @@
-<div align="center">
-  <img src="media/header.webp" width="500px" />
-
-  <br />
+<div align="right">
+  <img src="media/header.webp" width="40%" align="right" style="border-radius: 1rem"/>
+</div>
 
 # 🧑 Hi, I'm Vincent 👋
 
-I'm a future software engineer specializing in web-development
+I'm a future software engineer specializing in
+
+web-development
 
 <a href="mailto:vincent@email.v-thomas.xyz">![vincent.nathan.thomas@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-</div>
 
 #### **📜 About me**
 
