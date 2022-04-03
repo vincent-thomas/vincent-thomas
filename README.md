@@ -11,22 +11,22 @@
 <a href="mailto:vincent@email.v-thomas.xyz">![vincent.nathan.thomas@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.buymeacoffee.com/vincentthomas"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
-| Age? |                                                  Reside?                                                   |      Hobbies?      |
-| :--: | :--------------------------------------------------------------------------------------------------------: | :----------------: |
-|  15  | <img src="https://bit.ly/3uJxHtW" width="20" height="20"/> [(map)](https://link.v-thomas.xyz/where-i-live) | <h2>**⛵ 👨🏻‍💻**</h2> |
+| Age? |                                                  Reside?                                                   |       Hobbies?       |
+| :--: | :--------------------------------------------------------------------------------------------------------: | :------------------: |
+|  15  | <img src="https://bit.ly/3uJxHtW" width="20" height="20"/> [(map)](https://link.v-thomas.xyz/where-i-live) | <big>**⛵ 👨🏻‍💻**</big> |
 
 |                                                         Creator of                                                          |
 | :-------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://movie.v-thomas.xyz/favicon.svg" width="20" height="20"/> [MovieReviewer](https://link.v-thomas.xyz/movie) |
 
-<b>📱 Technologies/Languages used<b>
+**📱 Technologies/Languages used**
 
 <table>
 
   <tr>
-    <td>
+    <th>
       <small><i>Frontend</i></small>
-    </td>
+    </th>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="nodejs" width="20" height="20"/>
     </td>
@@ -48,9 +48,9 @@
   </tr>
 
   <tr>
-    <td>
+    <th>
       <small><i>Backend</i></small>
-    </td>
+    </th>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
     </td>
@@ -72,8 +72,9 @@
 
   </tr>
   <tr>
-    <td>
+    <th>
       <small><i>Others</i></small>
+    </th>
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>
     </td>
@@ -95,7 +96,7 @@
   </tr>
 </table>
 
-<b>🌱 Right now im Learning</b>
+**🌱 Right now im Learning**
 
 <table>
   <tr>
@@ -108,7 +109,7 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" height="20">
     </td>
-  <tr>
+  </tr>
 </table>
 
 ### 🔭 Working on
@@ -117,8 +118,10 @@
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VincentThomas06&repo=Codebase&theme=codeSTACKr" />
 </a>
 
-<br />
+<p>
 
 Feel free to contact me if you wanna collab on some project [here](mailto:vincent@email.v-thomas.xyz)!
+
+</p>
 
 ---
