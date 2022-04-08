@@ -2,15 +2,15 @@
   <img src="media/header.webp" width="40%" align="right" style="border-radius: 1rem"/>
 </div>
 
-## 🧑 Hi, I'm Vincent 👋
+# 🧑 Hi, I'm Vincent 👋
 
 #### I'm a future software engineer specializing in web-development. I love learning and find new stuff to learn everyday!
 
 <p></p>
 
-[![](https://custom-icon-badges.herokuapp.com/badge/G%C3%B6teborg-SWE?style=for-the-badge&logo=location&logoColor=blue&color=yellow)](https://link.v-thomas.xyz/where-i-live)
-<a href="//link.v-thomas.xyz/email">![vincent.nathan.thomas@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://link.v-thomas.xyz/donate">
+[![](https://custom-icon-badges.herokuapp.com/badge/G%C3%B6teborg-SWE?style=for-the-badge&logo=location&logoColor=blue&color=yellow)](https://link.v-thomas.me/where-i-live)
+<a href="//link.v-thomas.me/email">![vincent.nathan.thomas@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://link.v-thomas.me/donate">
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
@@ -18,11 +18,11 @@
 | :--: | :--------------------------------------------------------: | :------------------: |
 |  15  | <img src="https://bit.ly/3uJxHtW" width="20" height="20"/> | <big>**⛵ 👨🏻‍💻**</big> |
 
-|                                                         Creator of                                                          |
-| :-------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://movie.v-thomas.xyz/favicon.svg" width="20" height="20"/> [MovieReviewer](https://link.v-thomas.xyz/movie) |
+|                                                        Creator of                                                         |
+| :-----------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://movie.v-thomas.me/favicon.svg" width="20" height="20"/> [MovieReviewer](https://link.v-thomas.me/movie) |
 
-#### **📱 Technologies/Languages used**
+### **📱 Technologies/Languages used**
 
 <table>
 
@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-#### **🔭 Working on**
+### **🔭 Working on**
 
 <a href="https://github.com/VincentThomas06/Codebase">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VincentThomas06&repo=Codebase&theme=codeSTACKr" />
@@ -107,13 +107,13 @@
 
 <p>
 
-#### **📈 Contribution graph.**
+### **📈 Contribution graph.**
 
 <small>working on it...</small>
 
 ![](https://activity-graph.herokuapp.com/graph?username=VincentThomas06&theme=xcode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
-Feel free to contact me if you wanna collab on some project [here](https://link.v-thomas.xyz/email)!
+Feel free to contact me if you wanna collab on some project [here](https://link.v-thomas.me/email)!
 
 </p>
 
