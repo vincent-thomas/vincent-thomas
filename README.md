@@ -7,5 +7,5 @@ I'm a software engineer/tokenmaxxer. I work at [HDR](https://github.com/hdresear
 - [liten](https://github.com/vincent-thomas/liten): rust async runtime built on lio.
 
 ## Get in touch
-- Email: <firstname>@v-<lastname>.com
+- Email: \<firstname\>@v-\<lastname\>.com
 - X: https://x.com/vtho06
